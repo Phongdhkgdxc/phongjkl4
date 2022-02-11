@@ -1,0 +1,9 @@
+{
+	"ip":"phongas.aternos.me",
+	"port": 64998,
+	"name": "DepTrai3D_fake",
+	"auto-night-skip":"true",
+	"login-enabled":"true",
+	"register-cmd":"/register (type_ur_pass_here(remember_no_spaces)) (type_ur_pass_here(remember_no_spaces))",
+	"login-cmd":"/login (type_ur_pass_here)"
+}
